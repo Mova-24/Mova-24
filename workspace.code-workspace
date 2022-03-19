@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "htdocs",
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\xampp\\htdocs"
+		},
+		{
+			"name": "Mova-24",
+			"path": "."
+		},
+		{
+			"name": "Tourist",
+			"path": "..\\..\\..\\..\\..\\..\\..\\..\\xampp\\htdocs\\Coursework_Tourist\\Tourist"
+		}
+	],
+	"settings": {}
+}
