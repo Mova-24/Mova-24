@@ -1,0 +1,39 @@
+
+
+
+nav >ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+
+nav >ul>li{
+    float:left;
+}
+
+nav >ul>li a{
+    display: block;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+body{
+    width: 100%;
+    background-position: center;
+    height: 100vh;
+}
+
+h2 {
+    font-family: 'Lobster', sans-serif;
+    font-weight: 300;
+}
+
+p, h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
